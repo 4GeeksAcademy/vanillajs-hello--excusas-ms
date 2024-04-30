@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url(https://i.pinimg.com/originals/32/6e/a1/326ea117d6648ab6f0079d11a5da0e30.gif);
+  background-size: cover;
+}
+
+p {
+  color: aliceblue;
+}
